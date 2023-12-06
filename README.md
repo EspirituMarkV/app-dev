@@ -10,3 +10,7 @@ My First Repository
 `System.out.Println("Favorite Movies/Series");`
 
 [ELMS STI Link](https://www.google.com/search?sca_esv=588229662&q=whistle+song&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjomLfT5PmCAxXXb2wGHbXSC1sQ0pQJegQIDBAB&biw=1366&bih=661#imgrc=7DY8zE7dEUyOaM)
+
+| Movies | Series |
+| ----------- | ----------- |
+| Endgame | Invincible |
